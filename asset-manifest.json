@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff4937d2.css",
-    "main.js": "/static/js/main.8ebb7d14.js",
-    "index.html": "/index.html",
-    "main.ff4937d2.css.map": "/static/css/main.ff4937d2.css.map",
-    "main.8ebb7d14.js.map": "/static/js/main.8ebb7d14.js.map"
+    "main.css": "/10000-hours-rule/static/css/main.ff4937d2.css",
+    "main.js": "/10000-hours-rule/static/js/main.14e782ec.js",
+    "index.html": "/10000-hours-rule/index.html",
+    "main.ff4937d2.css.map": "/10000-hours-rule/static/css/main.ff4937d2.css.map",
+    "main.14e782ec.js.map": "/10000-hours-rule/static/js/main.14e782ec.js.map"
   },
   "entrypoints": [
     "static/css/main.ff4937d2.css",
-    "static/js/main.8ebb7d14.js"
+    "static/js/main.14e782ec.js"
   ]
 }
